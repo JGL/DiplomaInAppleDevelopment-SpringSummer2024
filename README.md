@@ -17,7 +17,7 @@ Readme, lecture slides and wiki from Block 2 of the 2023/2024 [Creative Computin
   - Friday: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501-03, taught by [Joel Gethin Lewis](https://joelgethinlewis.com).
     - Block 2: Product Two: Further Apple Frameworks
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the units of the Diploma in Apple Development.**_
-- [Course Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=73400)
+- [Course Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=79513)
 - [Lecture and Workshop slides](https://jgl.github.io/DiplomaInAppleDevelopment-SpringSummer2024/)
 - Please see the [course wiki for all non-lecture notes, reading lists and other resources](https://github.com/JGL/DiplomaInAppleDevelopment-SpringSummer2024/wiki).
 
@@ -77,14 +77,20 @@ Block 2 consists of three units, studied in parallel:
   1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. This test will be sat on Tuesday 4th June 2024, duration two hours, 1000-1200. This test will be worth 50% of your overall unit mark.
   2. Practical Exam: students will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. This exam will be sat on Tuesday 11th June 2024, duration two hours, 1000-1200. This exam will be worth 50% of your overall unit mark.
 
+[Coding Two Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=79518)
+
 - **Product Two**: Individual App Design and Launch.
 
   1. Presentation: You will present your creative work to your peers and upload the ‘slide deck’ from the presentation. This presentation will be given on Friday 14th June 2024, duration 30 minutes, 1000-1300. This presentation will be worth 100% of your overall unit mark.
+
+[Product Two Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=79519)
 
 - **ML Two**: Making Models with Create ML.
 
   1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. This test will be sat on Thursday June 6th 2024. This test will be worth 50% of your overall unit mark.
   2. Presentation: You will give a presentation around a bespoke ML model to your peers and upload the ‘slide deck’ from the presentation. This presentation will be given on Thursday 13th June 2024, duration 30 minutes, 1000-1300. This presentation will be worth 50% of your overall unit mark.
+
+[ML Two Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=79520)
 
 Finally, some tips about how to get the best grades possible:
 
