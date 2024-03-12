@@ -141,10 +141,33 @@ Block 2 consists of three units, studied in parallel:
   1. Describe how to build ML models (Knowledge, Communication)
   2. Demonstrate how to use the create ML framework (Process)
   3. Describe approaches to evaluate your model for bias and discrimination (Enquiry)
+ 
+## Counselling, Health Advice and Chaplaincy information
+
+Support is available! Complete the team's online form to request support for your physical health, mental health or wellbeing. Appointments are available on college sites in person, online or on the phone.
+
+See: <https://www.arts.ac.uk/students/student-services/counselling-health-advice-and-chaplaincy> for more information.
+
+## Student parent and carer support
+
+Support is available! UAL seeks to create an inclusive environment that is welcoming to parents, carers and their children. UAL’s definition of parenthood includes:
+
+- Expectant parents
+- Pregnancy
+- Fertility treatment
+- Fostering
+- Baby loss
+- Adoption
+- Abortion of a pregnancy
+- Parents and carers of children
+
+UAL’s definition of caring responsibilities adopts the definition from The Carers Trust UK, which defines a carer as “anyone who cares, unpaid, for a friend or family member who due to illness, disability, a mental health problem, or an addiction cannot cope without their support.”
+
+See: <https://www.arts.ac.uk/students/student-diversity/student-parent-and-carer-support> for more information.
 
 ## Disability Service information
 
-The Disability Adviser for Creative Computing Institute is Chris Bambling . Their contact details are c.bambling@arts.ac.uk. All appointments are confidential, and can be in-person, on the phone, or on Microsoft Teams. You can also call 020 7514 6156 or email disability@arts.ac.uk.
+The Disability Adviser for Creative Computing Institute is Chris Bambling. Their contact details are c.bambling@arts.ac.uk. All appointments are confidential, and can be in-person, on the phone, or on Microsoft Teams. You can also call 020 7514 6156 or email disability@arts.ac.uk.
 
 All appointments are confidential, and can be in-person, on the phone, or on Microsoft Teams.
 
